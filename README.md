@@ -124,7 +124,7 @@ Landing page e vitrine digital de projetos.
 - 💼 **LinkedIn:** [ricardovendraminicassimiro](https://www.linkedin.com/in/ricardovendraminicassimiro/)
 - 🧑‍💻 **GitHub:** [rik-404](https://github.com/rik-404)
 - 📧 **Email:** contato@vendramini.com.br
-- 🌐 **Site:** vendramini.com.br
+- 🌐 **Site:** vendraminiinformatica.com.br
 
 ---
 
