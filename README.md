@@ -108,19 +108,6 @@ Landing page e vitrine digital de projetos.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rik-404&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rik-404&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rik-404&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🏆 Principais Conquistas
 
 - 🎯 **Fundador** da Vendramini Informática
