@@ -106,7 +106,7 @@ Sou fundador e desenvolvedor responsável pela **Vendramini Informática**, empr
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-vendramini.contato%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vendraminiinforamtica.contato@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-vendraminiinformatica.contato%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vendraminiinforamtica.contato@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-(19)_98231--6964-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519982316964)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardovendraminicassimiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardovendraminicassimiro/)
   [![Instagram](https://img.shields.io/badge/Instagram-@vendramini.informatica-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vendramini.informatica)
