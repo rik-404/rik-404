@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Screenshot_54-removebg-preview.png" alt="Vendramini Informática Logo" width="160" />
+  <img src="Icon-Vendramini-Informatica.png" alt="Vendramini Informática Logo" width="160" />
   
   # 🚀 Ricardo Vendramini Cassimiro
   ### **Proprietário & Desenvolvedor @ Vendramini Informática**
