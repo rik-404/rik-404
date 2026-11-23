@@ -1,118 +1,143 @@
 <div align="center">
-  <img src="Icon-Vendramini-Informatica.png" alt="Vendramini Informática Logo" width="160" />
-  
-  # 🚀 Ricardo Vendramini Cassimiro
-  ### **Proprietário & Desenvolvedor @ Vendramini Informática**
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+React%2C+TypeScript+%26+Python;Fundador+da+Vendramini+Inform%C3%A1tica;Especialista+em+SaaS%2C+PWAs+%26+Vanilla+High-Performance;Entusiasta+Linux+Debian+%F0%9F%8C%80)](https://git.io/typing-svg)
 
-  <p align="center">
-    <a href="https://vendraminiinformatica.com.br/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-vendraminiinformatica.com.br-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" />
-    </a>
-    <a href="https://www.linkedin.com/in/ricardovendraminicassimiro/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Ricardo_Vendramini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.instagram.com/vendramini.informatica" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-@vendramini.informatica-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://discord.gg/hpJF9byvk" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-Comunidade_Dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-  </p>
-</div>
+<img src="Icon-Vendramini-Informatica.png" alt="Vendramini Informática" width="140" />
 
----
+# Ricardo Vendramini Cassimiro
 
-### 👨‍💻 Sobre Mim
+**Desenvolvedor Full-Stack · Fundador da Vendramini Informática · Game Dev indie**
+📍 Piracicaba/SP — Brasil
 
-Sou fundador e desenvolvedor responsável pela **Vendramini Informática**, empresa focada em criar soluções tecnológicas de ponta, sistemas de alta performance e experiências web imersivas para negócios e clientes finais em Piracicaba/SP e região.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=Full-Stack+%7C+React%2C+TypeScript+%26+Supabase;Criador+do+Oathbound+%E2%9A%94%EF%B8%8F;Sistemas+sob+medida+para+neg%C3%B3cios+locais;Linux+Debian+%F0%9F%8C%80)](https://github.com/rik-404)
 
-- 🌐 **Web Full-Stack & SaaS**: Desenvolvimento de plataformas completas em **React 18, TypeScript, Vite, Tailwind CSS** e **Supabase** (Auth, RLS, Storage, Realtime).
-- ⚡ **High Performance & Canvas 2D**: Criação de interfaces ricas com **HTML5/CSS3 Vanilla, Glassmorphism e Canvas API 2D** (efeitos de partículas, matrizes e renderizações dinâmicas em tempo real sem frameworks pesados).
-- 🔄 **Arquiteturas Híbridas & PWAs**: Construção de aplicações preparadas para uso offline com **LocalStorage Fallback**, Service Workers PWA e automação de orçamentos integrada à API do WhatsApp.
-- 🐍 **Python & Game Dev**: Desenvolvimento de jogos 2D com **Pygame** (lógica de colisão AABB, máquinas de estados, geração de frequências de áudio 8-bit em tempo real) e utilitários Desktop em **Tkinter**.
-- 🌀 **Ambiente de Trabalho**: Desenvolvendo primariamente sob o ecossistema **Linux Debian**.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-#### **Linguagens & Core**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL_SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### **Frameworks, UI & Web APIs**
-![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Canvas API](https://img.shields.io/badge/Canvas_API_2D-FF4500?style=for-the-badge&logo=html5&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA_Ready-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-
-#### **Backend, Cloud & Banco de Dados**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=postman&logoColor=white)
-
-#### **Ferramentas & Sistema Operacional**
-![Debian](https://img.shields.io/badge/Linux_Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-00FF00?style=for-the-badge&logo=python&logoColor=black)
+[![Portfólio](https://img.shields.io/badge/Portfólio-ricardovendramini.site-111111?style=flat-square&logo=googlechrome&logoColor=00F0FF)](https://www.ricardovendramini.site)
+[![Website](https://img.shields.io/badge/Vendramini_Informática-site-00F0FF?style=flat-square&logo=googlechrome&logoColor=black)](https://vendraminiinformatica.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardovendraminicassimiro/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vendramini.informatica)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hpJF9byvk)
 
 </div>
 
 ---
 
-### 🌟 Projetos em Destaque
+## 👨‍💻 Sobre mim
 
-| Projeto | Descrição & Recursos | Stack Principal | Links |
-| :--- | :--- | :--- | :---: |
-| 🏢 **Elite House Hub** | Plataforma imobiliária completa (CRM, Gestão de Imóveis, Clientes, Financeiro, Agendamento e Analytics). | `React 18` `TypeScript` `Vite` `Supabase` `Tailwind` `PWA` | [🌐 Live](https://elitehousepiracicaba.com.br) • [📦 Repo](https://github.com/rik-404/eliteHouseOficial) |
-| ⚡ **Vendramini Informática** | Site oficial institucional com efeito Matrix animado via Canvas API e apresentação do CRM **VendraX**. | `HTML5` `CSS3` `JS ES6+` `Canvas API` `PWA` | [🌐 Live](https://vendraminiinformatica.com.br/) |
-| 🪄 **Fundo Mágico** | Ferramenta interativa que gera backgrounds CSS dinâmicos a partir de descrições em texto com Glassmorphism. | `HTML5` `CSS3` `JS ES6+` `Dynamic CSS Parser` | [📦 Repo](https://github.com/rik-404/Fundo-Magico-) |
-| 💖 **Festa Fácil** | Vitrine & Catálogo de Orçamentos com busca em tempo real, gestão no Admin e envio direto para WhatsApp. | `HTML5` `CSS3` `JS ES6+` `Supabase` `LocalStorage Fallback` | ⚡ *Production* |
-| 🔮 **Cigana Morgana** | Landing Page mística com efeito de estrelas (starfield) interativo ao mouse via Canvas 2D e Lightbox. | `HTML5` `CSS3 Glassmorphism` `Canvas API 2D` `JS` | ⚡ *Production* |
-| 🛍️ **Catatau Eletrônicos** | Plataforma e-commerce para eletrônicos com painel administrativo integrado ao Supabase SQL. | `HTML5` `CSS3` `JS Vanilla` `Supabase DB/Auth` | ⚡ *Production* |
-| 👽 **Retorno dos Aliens** | Jogo de nave arcade retrô 2D com máquina de estados e sintetização matemática de sons 8-bit. | `Python 3` `Pygame` `Math Sound Synthesis` | 🎮 *Game* |
-| ⏳ **Calculadora Data/Hora** | Aplicação Desktop GUI para cálculo preciso de intervalos e conversões temporais. | `Python 3` `Tkinter` `Datetime API` | 🖥️ *Desktop* |
+Sou dono da **Vendramini Informática**, onde desenvolvo sistemas sob medida para negócios reais — imobiliárias, lojas, delivery, eventos — do banco de dados até a tela que o cliente usa. Nas horas vagas (e nem tão vagas assim), crio jogos.
+
+- 🏢 **Sistemas para empresas** — CRMs, painéis administrativos, e-commerces e catálogos com **React + TypeScript + Supabase** (Auth, RLS, Realtime, Storage).
+- ⚡ **Front-end leve e rápido** — muito HTML/CSS/JS puro, PWAs com modo offline (`localStorage` fallback) e efeitos em **Canvas 2D**.
+- 🤖 **Automação** — integrações com WhatsApp, bots de Slack e Discord, Jira e Zendesk.
+- 🎮 **Game dev** — do Pygame (8-bit, sons sintetizados) ao **Oathbound**, meu jogo web com login, ranking e saves na nuvem.
+
+### 🔭 Agora estou trabalhando em
+
+- ⚔️ **Oathbound** — em *open beta* com comunidade no Discord e lançamento em PT / ES / EN
+- 🕹️ **Portfólio jogável** — uma versão do meu portfólio onde você anda por um mundo e entra nos projetos como se fossem exposições
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🌟 Projetos em destaque
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rik-404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rik-404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### ⚔️ Oathbound
+Jogo web gratuito em *open beta*: heróis com armas e passivas combináveis, ranking mundial, saves na nuvem e login com Discord.
+
+`JavaScript` `Supabase` `Discord OAuth`
+
+[🎮 Jogar](https://oathbunder.vercel.app/) · [📖 Wiki](https://wikioathbound.vercel.app) · [📦 Repo da Wiki](https://github.com/rik-404/wiki.oathbound)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Elite House Hub
+Plataforma imobiliária em produção: CRM, gestão de imóveis e clientes, financeiro, agenda e analytics.
+
+`React 18` `TypeScript` `Vite` `Supabase` `Tailwind` `PWA`
+
+[🌐 Ver site](https://elitehousepiracicaba.com.br) · 🔒 *código privado (cliente)*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Portfólio interativo
+Portfólio bilíngue (PT-BR / EN) com experiência gamificada, terminal estilo CLI e sistema de conquistas.
+
+`React 18` `Vite` `Tailwind` `Framer Motion` `Canvas 2D`
+
+[🌐 Ver site](https://www.ricardovendramini.site) · [📦 Repo](https://github.com/rik-404/Ricardo-Vendramini)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐞 Vendramini Slack Tools
+Bot modular de chamados para Slack (`/ticket`, `/bug`, `/pix`…) com integração Jira e Zendesk e dashboard de métricas.
+
+`Node.js` `Slack API` `Supabase` `React` `Tailwind`
+
+[📦 Repo](https://github.com/rik-404/Vendramini-Slack-Tools)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 Mais projetos (clique para abrir)</b></summary>
 <br />
 
+| Projeto | O que é | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| ⚡ **Vendramini Informática** | Site institucional com efeito Matrix em Canvas e apresentação do CRM **VendraX** | `HTML` `CSS` `JS` `Canvas` `PWA` | [🌐](https://vendraminiinformatica.com.br/) |
+| 🍔 **Sabor Express** | Cardápio digital e delivery com modo local ou nuvem (Supabase + RLS) | `JS` `Supabase` | [🌐](https://rik-404.github.io/menu-de-delivery/) · [📦](https://github.com/rik-404/menu-de-delivery) |
+| 📱 **CP CELL** | Loja virtual de eletrônicos com painel administrativo | `JS` `Supabase` `Vercel` | [🌐](https://rik-404.github.io/cpcell/) · [📦](https://github.com/rik-404/cpcell) |
+| 💖 **Festa Fácil** | Catálogo de orçamentos com busca em tempo real e envio direto para o WhatsApp | `JS` `Supabase` | [🌐](https://rik-404.github.io/Festa-Facil/) · [📦](https://github.com/rik-404/Festa-Facil) |
+| ✅ **TaskFlow** | To-do list com CRUD, sub-tarefas, filtros e tema claro/escuro | `HTML` `CSS` `JS` | [🌐](https://rik-404.github.io/Task-FLOW/) · [📦](https://github.com/rik-404/Task-FLOW) |
+| 🎮 **Rei das Roms** | Catálogo de retrogames, consoles e emuladores | `HTML` `CSS` `JS` | [🌐](https://rik-404.github.io/reisdasroms/) · [📦](https://github.com/rik-404/reisdasroms) |
+| 🪄 **Fundo Mágico** | Gera fundos CSS a partir de uma descrição em texto | `HTML` `CSS` `JS` | [📦](https://github.com/rik-404/Fundo-Magico-) |
+| 👽 **Retorno dos Aliens** | Shooter arcade retrô com máquina de estados e sons 8-bit sintetizados | `Python` `Pygame` | [📦](https://github.com/rik-404/Retorno-dos-Aliens) |
+| 🔮 **Cigana Morgana** | Landing page mística com céu estrelado interativo em Canvas | `HTML` `CSS` `Canvas` | 🔒 cliente |
+| 🛍️ **Catatau Eletrônicos** | E-commerce de eletrônicos com painel admin | `JS` `Supabase` | 🔒 cliente |
+
+</details>
+
+---
+
+## 🛠️ Stack
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rik-404&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,vite,tailwind,nodejs,supabase,postgres,git,vscode,debian,vercel&perline=8" alt="Tecnologias" />
+
 </div>
 
 ---
 
-### 📬 Vamos Conversar & Conectar!
+## 📊 GitHub
 
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-vendraminiinformatica.contato%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vendraminiinforamtica.contato@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-(19)_98231--6964-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519982316964)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardovendraminicassimiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardovendraminicassimiro/)
-  [![Instagram](https://img.shields.io/badge/Instagram-@vendramini.informatica-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vendramini.informatica)
-  [![Discord](https://img.shields.io/badge/Discord-Entrar_no_Servidor-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hpJF9byvk)
 
-  <br />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rik-404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rik-404&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
 
-  <sub>© 2026 **Ricardo Vendramini Cassimiro** • Desenvolvido com dedicação & tecnologia.</sub>
+<img src="https://streak-stats.demolab.com/?user=rik-404&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+Precisa de um site, sistema ou automação para o seu negócio? Fala comigo:
+
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vendraminiinformatica.contato@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(19)_98231--6964-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519982316964)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardovendraminicassimiro/)
+
+<sub>© 2026 Ricardo Vendramini Cassimiro · Vendramini Informática</sub>
+
 </div>
