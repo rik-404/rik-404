@@ -4,7 +4,7 @@
 
 # Ricardo Vendramini Cassimiro
 
-**Desenvolvedor Full-Stack · Fundador da Vendramini Informática · Game Dev indie**
+**Desenvolvedor Full Stack & Arquiteto de Sistemas · Fundador da Vendramini Informática · Game Dev indie**
 📍 Piracicaba/SP — Brasil
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=Full-Stack+%7C+React%2C+TypeScript+%26+Supabase;Criador+do+Oathbound+%E2%9A%94%EF%B8%8F;Sistemas+sob+medida+para+neg%C3%B3cios+locais;Linux+Debian+%F0%9F%8C%80)](https://github.com/rik-404)
@@ -12,7 +12,8 @@
 [![Portfólio](https://img.shields.io/badge/Portfólio-ricardovendramini.site-111111?style=flat-square&logo=googlechrome&logoColor=00F0FF)](https://www.ricardovendramini.site)
 [![Website](https://img.shields.io/badge/Vendramini_Informática-site-00F0FF?style=flat-square&logo=googlechrome&logoColor=black)](https://vendraminiinformatica.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardovendraminicassimiro/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vendramini.informatica)
+[![Instagram](https://img.shields.io/badge/@404__rik-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/404_rik/)
+[![Instagram Vendramini](https://img.shields.io/badge/@vendramini.informatica-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vendramini.informatica)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hpJF9byvk)
 
 </div>
@@ -26,7 +27,7 @@ Sou dono da **Vendramini Informática**, onde desenvolvo sistemas sob medida par
 - 🏢 **Sistemas para empresas** — CRMs, painéis administrativos, e-commerces e catálogos com **React + TypeScript + Supabase** (Auth, RLS, Realtime, Storage).
 - ⚡ **Front-end leve e rápido** — muito HTML/CSS/JS puro, PWAs com modo offline (`localStorage` fallback) e efeitos em **Canvas 2D**.
 - 🤖 **Automação** — integrações com WhatsApp, bots de Slack e Discord, Jira e Zendesk.
-- 🎮 **Game dev** — do Pygame (8-bit, sons sintetizados) ao **Oathbound**, meu jogo web com login, ranking e saves na nuvem.
+- 🎮 **Game dev** — do Pygame (8-bit, sons sintetizados) ao **Oathbound**, meu jogo de sobrevivência voxel no navegador, com login, ranking e saves na nuvem.
 
 ### 🔭 Agora estou trabalhando em
 
@@ -42,11 +43,11 @@ Sou dono da **Vendramini Informática**, onde desenvolvo sistemas sob medida par
 <td width="50%" valign="top">
 
 ### ⚔️ Oathbound
-Jogo web gratuito em *open beta*: heróis com armas e passivas combináveis, ranking mundial, saves na nuvem e login com Discord.
+Jogo de sobrevivência voxel grátis no navegador, em *open beta*: heróis com armas e passivas combináveis, ranking mundial, saves na nuvem e login com Discord.
 
 `JavaScript` `Supabase` `Discord OAuth`
 
-[🎮 Jogar](https://oathbunder.vercel.app/) · [📖 Wiki](https://wikioathbound.vercel.app) · [📦 Repo da Wiki](https://github.com/rik-404/wiki.oathbound)
+[🎮 Jogar](https://www.jogue-oathbound.online/) · [📖 Wiki](https://wikioathbound.vercel.app) · [📦 Repo da Wiki](https://github.com/rik-404/wiki.oathbound)
 
 </td>
 <td width="50%" valign="top">
